@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=animales
+comment1.params=
+comment1.target=animales()
+comment10.params=numerodepatas
+comment10.target=java.lang.String\ DeterminarTipoAnimal(int)
+comment2.params=nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=habitad
+comment4.target=void\ setHabitad(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getHabitad()
+comment6.params=tiempodevida
+comment6.target=void\ setTiempodevida(int)
+comment7.params=
+comment7.target=int\ getTiempodevida()
+comment8.params=numerodepatas
+comment8.target=void\ setNumerodepatas(int)
+comment9.params=
+comment9.target=int\ getnumerodepatas()
+numComments=11
